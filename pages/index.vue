@@ -42,7 +42,5 @@ const people = [
 </script>
 
 <style>
-* {
-  padding: 1em;
-}
+
 </style>

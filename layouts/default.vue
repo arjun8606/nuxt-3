@@ -6,8 +6,9 @@
       <ul class="flex gap-4">
         <li><NuxtLink to="/">Home</NuxtLink></li>
         <li><NuxtLink to="/about">About</NuxtLink></li>
-        <li><NuxtLink to="/" class="btn">Products</NuxtLink></li>
+        <li><NuxtLink to="/products/" class="btn">Products</NuxtLink></li>
       </ul>
+      <p class="text-center text-2xl font-bold py-4">Home</p>
     </nav>
   </header>
 
@@ -16,6 +17,3 @@
   </div>
 </div>
 </template>
-
-<style scoped>
-</style>
